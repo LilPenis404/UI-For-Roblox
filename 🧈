@@ -1,0 +1,107 @@
+local Gaming = Instance.new("Frame")
+local ImageLabel = Instance.new("ImageLabel")
+local ImageLabel_2 = Instance.new("ImageLabel")
+local ImageLabel_3 = Instance.new("ImageLabel")
+local ImageLabel_4 = Instance.new("ImageLabel")
+local ImageLabel_5 = Instance.new("ImageLabel")
+local ImageLabel_6 = Instance.new("ImageLabel")
+local TextLabel = Instance.new("TextLabel")
+local TextLabel_2 = Instance.new("TextLabel")
+local TextLabel_3 = Instance.new("TextLabel")
+local TextLabel_4 = Instance.new("TextLabel")
+
+--Properties:
+
+Gaming.Name = "Gaming"
+Gaming.Parent = game.StarterGui.ScreenGui
+Gaming.Active = true
+Gaming.BackgroundColor3 = Color3.fromRGB(163, 37, 37)
+Gaming.BackgroundTransparency = 1.000
+Gaming.BorderColor3 = Color3.fromRGB(0, 0, 0)
+Gaming.BorderSizePixel = 0
+Gaming.Position = UDim2.new(-0.0624928921, 0, -0.0504929423, 0)
+Gaming.Size = UDim2.new(0, 745, 0, 341)
+
+ImageLabel.Parent = Gaming
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 1.000
+ImageLabel.Position = UDim2.new(0.00671140943, 0, -0.230283916, 0)
+ImageLabel.Size = UDim2.new(0, 705, 0, 495)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=7893280385"
+
+ImageLabel_2.Parent = Gaming
+ImageLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_2.BackgroundTransparency = 1.000
+ImageLabel_2.Position = UDim2.new(0.00671140943, 0, -0.230283916, 0)
+ImageLabel_2.Size = UDim2.new(0, 705, 0, 495)
+ImageLabel_2.Image = "http://www.roblox.com/asset/?id=7893280385"
+
+ImageLabel_3.Parent = Gaming
+ImageLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel_3.BackgroundTransparency = 1.000
+ImageLabel_3.Position = UDim2.new(0.444242537, 0, 0.139217526, 0)
+ImageLabel_3.Size = UDim2.new(0, 35, 0, 36)
+ImageLabel_3.Image = "http://www.roblox.com/asset/?id=7893279611"
+
+ImageLabel_4.Parent = Gaming
+ImageLabel_4.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+ImageLabel_4.BackgroundTransparency = 1.000
+ImageLabel_4.Position = UDim2.new(0.634899318, 0, 0.118689664, 0)
+ImageLabel_4.Size = UDim2.new(0, 3, 0, 242)
+ImageLabel_4.Image = "http://www.roblox.com/asset/?id=7893280385"
+ImageLabel_4.ImageColor3 = Color3.fromRGB(18, 18, 18)
+
+ImageLabel_5.Parent = Gaming
+ImageLabel_5.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+ImageLabel_5.BackgroundTransparency = 1.000
+ImageLabel_5.Position = UDim2.new(0.293959737, 0, 0.118689664, 0)
+ImageLabel_5.Size = UDim2.new(0, 3, 0, 242)
+ImageLabel_5.Image = "http://www.roblox.com/asset/?id=7893280385"
+ImageLabel_5.ImageColor3 = Color3.fromRGB(18, 18, 18)
+
+ImageLabel_6.Parent = Gaming
+ImageLabel_6.BackgroundColor3 = Color3.fromRGB(42, 42, 42)
+ImageLabel_6.BackgroundTransparency = 1.000
+ImageLabel_6.Position = UDim2.new(0.638926148, 0, 0.118689656, 0)
+ImageLabel_6.Size = UDim2.new(0, 88, 0, 87)
+ImageLabel_6.Image = "http://www.roblox.com/asset/?id=7893352519"
+
+TextLabel.Parent = Gaming
+TextLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.BackgroundTransparency = 1.000
+TextLabel.Position = UDim2.new(0.638926148, 0, 0.243401766, 0)
+TextLabel.Size = UDim2.new(0, 192, 0, 22)
+TextLabel.Font = Enum.Font.Code
+TextLabel.Text = "BETA"
+TextLabel.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.TextSize = 6.000
+
+TextLabel_2.Parent = Gaming
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.BackgroundTransparency = 1.000
+TextLabel_2.Position = UDim2.new(0.338255018, 0, 0.35190618, 0)
+TextLabel_2.Size = UDim2.new(0, 192, 0, 22)
+TextLabel_2.Font = Enum.Font.Code
+TextLabel_2.Text = "E To Fly"
+TextLabel_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_2.TextSize = 9.000
+
+TextLabel_3.Parent = Gaming
+TextLabel_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_3.BackgroundTransparency = 1.000
+TextLabel_3.Position = UDim2.new(0.338255018, 0, 0.211143717, 0)
+TextLabel_3.Size = UDim2.new(0, 192, 0, 22)
+TextLabel_3.Font = Enum.Font.Code
+TextLabel_3.Text = "crazy 6969696 hackor editon, special ed!!!"
+TextLabel_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_3.TextSize = 11.000
+
+TextLabel_4.Parent = Gaming
+TextLabel_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_4.BackgroundTransparency = 1.000
+TextLabel_4.Position = UDim2.new(0.102013424, 0, 0.178885624, 0)
+TextLabel_4.Size = UDim2.new(0, 134, 0, 22)
+TextLabel_4.Font = Enum.Font.Code
+TextLabel_4.Text = "nigger shits bites the dust"
+TextLabel_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel_4.TextSize = 11.000
